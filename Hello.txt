@@ -1,0 +1,2 @@
+Primer archivo creado con comandos Git en Linux para ser subidos al GitHub
+Archivo de ejemplo.
