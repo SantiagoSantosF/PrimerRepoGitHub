@@ -2,3 +2,4 @@ Esta es una prueba para generar conflictos y resolverlos.
 
 Esta segunda linea se va a modificar por primera vez. La siguiente vez se va a crear una linea
 adicional sin realizar un pull
+grego la linea desde el feature1 para crear conflictos
